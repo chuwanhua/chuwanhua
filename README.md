@@ -35,7 +35,7 @@ Currently based in Taiwan, I aspire to work abroad, connect with people from div
 - Bootstrap
 
 ## 💡 Projects
-- [CREAHUNT]([https://chuwanhua.github.io/creahunt.github.io/](https://chuwanhua.github.io/creahuntsite/))
+- [CREAHUNT](https://chuwanhua.github.io/creahuntsite/)
   
 ## 🔗 Get in touch
 - Personal site: [http://ms314006.github.io/](https://chuwanhua0825.wixsite.com/wan-hua-chu)
