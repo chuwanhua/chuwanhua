@@ -2,7 +2,7 @@
 
 Hi, I'm Jenny! I am a front-end developer passionate about blending technology with art to create intuitive user experiences. I am currently self-learning full-stack development through online courses and training programs. With a background in graphic design and two years of international design experience, I bring a unique perspective to web development, focusing on both functionality and aesthetics.
 
-Currently based in Taiwan, I aspire to work abroad, connect with people from diverse backgrounds, and explore more about the world. 🌍
+Currently based in Taiwan, I aspire to work abroad, connect with people from diverse backgrounds, and explore more about the world. 
 
 ## 🌱 My values
 🍏 Lifelong learner with a curious mindset<br>
