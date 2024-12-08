@@ -38,6 +38,7 @@ Currently based in Taiwan, I aspire to work abroad, connect with people from div
 - [CREAHUNT](https://chuwanhua.github.io/creahuntsite/)
   
 ## 🔗 Get in touch
+- Linkedin: https://www.linkedin.com/in/wan-hua-chu/
 - Personal site: https://chuwanhua0825.wixsite.com/wan-hua-chu
 - Behance: https://www.behance.net/wanhuachu
 - Email: chuwanhua0825@gmail.com
